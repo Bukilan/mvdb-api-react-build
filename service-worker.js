@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/mvdb-api-react-build/precache-manifest.1057ceafe6af3c83fba04edc4e3fe12f.js"
+  "/mvdb-api-react-build/precache-manifest.051a99be879587708cf4afb5dace9e36.js"
 );
 
 workbox.clientsClaim();
